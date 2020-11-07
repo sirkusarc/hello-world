@@ -1,2 +1,2 @@
 # Kitsune-maru
-Every journey needs feild notes
+Every journey needs field notes
